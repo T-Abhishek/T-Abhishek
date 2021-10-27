@@ -2,9 +2,10 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Abhishek Thatithuru</h1>
-<h5 align="center">
-I’m a 3rd-year student pursuing a Bachelor of technology in Computer science. I am a web developer. 
-</h5>
+  <br>
+<h6 align="center">
+I’m a 3rd-year student pursuing a Bachelor in technology in the stream of Computer Science
+</h6>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=T-Abhishek&label=Profile%20views&color=0e75b6&style=flat" alt="T-Abhishek" /> </p>
 <p>
 <a align= "center" href="https://github.com/T-Abhishek">
@@ -19,12 +20,12 @@ I’m a 3rd-year student pursuing a Bachelor of technology in Computer science. 
 <a href="https://instagram.com/drwho._" target="blank"><img align="center" src="https://img.icons8.com/color-glass/48/000000/instagram-new.png" alt="drwho._" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.facebook.com/abhi.drwho" target="blank"><img align="center" src="https://img.icons8.com/color-glass/48/000000/facebook-new.png" height="50" width="50" /></a>  
 </p>
-
+<br>
 - 🌱 I’m currently learning **Backend Development**
 
 - 📝 I regularly do Photo manipulations using Adobe Photoshop and Lightroom
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Photoshop & Lightroom**
 
 - 📫 How to reach me **drwho.abhi@gmail.com**
-<br><br>
+<br>
