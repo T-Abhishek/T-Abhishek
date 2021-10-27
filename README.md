@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h1 align="center">Hi <img src="https://tenor.com/view/wave-hello-emote-flat-waving-gif-22026836" 
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Abhishek Thatithuru</h1>
