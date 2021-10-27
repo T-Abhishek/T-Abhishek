@@ -21,6 +21,7 @@ I’m a 3rd-year student pursuing a Bachelor in technology in the stream of Comp
 <a href="https://www.facebook.com/abhi.drwho" target="blank"><img align="center" src="https://img.icons8.com/color-glass/48/000000/facebook-new.png" height="50" width="50" /></a>  
 </p>
 <br>
+
 - 🌱 I’m currently learning **Backend Development**
 
 - 📝 I regularly do Photo manipulations using **Adobe Photoshop and Lightroom**
