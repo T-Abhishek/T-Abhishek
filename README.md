@@ -1,19 +1,23 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" />, I'm Sai Surya Prakash</h1>
+         width="45" />, I'm Abhishek Thatithuru</h1>
 <h5 align="center">
-I’m a 3rd-year student pursuing a Bachelors’s in Computer science studies with a specialization of ML, from GVP. I am a web developer. 
+I’m a 3rd-year student pursuing a Bachelor of technology in Computer science. I am a web developer. 
 </h5>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suryacoder&label=Profile%20views&color=0e75b6&style=flat" alt="suryacoder" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=T-Abhishek&label=Profile%20views&color=0e75b6&style=flat" alt="T-Abhishek" /> </p>
 <p>
-<a align= "center" href="https://github.com/suryacoder">
-<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=suryacoder&theme=radical">
+<a align= "center" href="https://github.com/T-Abhishek">
+<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=T-Abhishek&theme=radical">
 <img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
 </p>
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=suryacoder&count_private=true&theme=radical&show_icons=true" />
+<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=T-Abhishek&count_private=true&theme=radical&show_icons=true" />
 
-<p align="left"> <a href="https://twitter.com/abhiiiXD" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="abhiiiXD" height=70 width=70/></a> </p>
+<p align="center">
+<a href="https://twitter.com/abhiiiXD" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="abhiiiXD" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+<a href="/https://www.linkedin.com/in/abhishek-thatithuru-2700b6211/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Abhishek Thatithuru" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/drwho._" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="drwho._" height="50" width="50" /></a>
+</p>
 
 - 🌱 I’m currently learning **Backend Development**
 
