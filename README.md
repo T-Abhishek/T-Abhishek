@@ -2,10 +2,10 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Abhishek Thatithuru</h1>
-  <br>
+ 
 <h6 align="center">
 I’m a 3rd-year student pursuing a Bachelor in technology in the stream of Computer Science
-</h6>
+</h6> <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=T-Abhishek&label=Profile%20views&color=0e75b6&style=flat" alt="T-Abhishek" /> </p>
 <p>
 <a align= "center" href="https://github.com/T-Abhishek">
@@ -23,7 +23,7 @@ I’m a 3rd-year student pursuing a Bachelor in technology in the stream of Comp
 <br>
 - 🌱 I’m currently learning **Backend Development**
 
-- 📝 I regularly do Photo manipulations using Adobe Photoshop and Lightroom
+- 📝 I regularly do Photo manipulations using **Adobe Photoshop and Lightroom**
 
 - 💬 Ask me about **Photoshop & Lightroom**
 
