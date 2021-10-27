@@ -14,9 +14,10 @@ I’m a 3rd-year student pursuing a Bachelor of technology in Computer science. 
 <img height="160px" width="400px" src="https://github-readme-stats.vercel.app/api?username=T-Abhishek&count_private=true&theme=radical&show_icons=true" />
 
 <p align="center">
-<a href="https://twitter.com/abhiiiXD" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="abhiiiXD" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
-<a href="/https://www.linkedin.com/in/abhishek-thatithuru-2700b6211/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Abhishek Thatithuru" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/drwho._" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="drwho._" height="50" width="50" /></a>
+<a href="https://twitter.com/abhiiiXD" target="blank"><img align="center" src="https://img.icons8.com/color-glass/48/000000/twitter.png" alt="abhiiiXD" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/abhishek-thatithuru-2700b6211/" target="blank"><img align="center" src="https://img.icons8.com/color-glass/48/000000/linkedin.png" alt="Abhishek Thatithuru" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/drwho._" target="blank"><img align="center" src="https://img.icons8.com/color-glass/48/000000/instagram-new.png" alt="drwho._" height="50" width="50" /></a>
+<a href="https://www.facebook.com/abhi.drwho" target="blank"><img align="center" src="https://img.icons8.com/color-glass/48/000000/facebook-new.png" height="50" width="50" /></a>  
 </p>
 
 - 🌱 I’m currently learning **Backend Development**
