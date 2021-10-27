@@ -8,10 +8,10 @@ I’m a 3rd-year student pursuing a Bachelor of technology in Computer science. 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=T-Abhishek&label=Profile%20views&color=0e75b6&style=flat" alt="T-Abhishek" /> </p>
 <p>
 <a align= "center" href="https://github.com/T-Abhishek">
-<img alt= "stats card" height="200" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=T-Abhishek&theme=radical">
-<img align="right" height="350" width="400" src="https://github.com/T-Abhishek/abhi/blob/main/giphy%20(1).gif?raw=true" /> </a>
+<img alt= "stats card" height="150px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=T-Abhishek&theme=radical">
+<img align="right" height="350px" width="400px" src="https://github.com/T-Abhishek/abhi/blob/main/giphy%20(1).gif?raw=true" /> </a>
 </p>
-<img height="150px" width="400" src="https://github-readme-stats.vercel.app/api?username=T-Abhishek&count_private=true&theme=radical&show_icons=true" />
+<img height="150px" width="400px" src="https://github-readme-stats.vercel.app/api?username=T-Abhishek&count_private=true&theme=radical&show_icons=true" />
 
 <p align="center">
 <a href="https://twitter.com/abhiiiXD" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="abhiiiXD" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
