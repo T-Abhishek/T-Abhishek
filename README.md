@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" 
          alt="Waving hand animated gif"
-         height="45"
-         width="45" />, I'm Abhishek Thatithuru</h1>
+         height="40"
+         width="40" />, I'm Abhishek Thatithuru</h1>
  
 <h6 align="center">
 I’m a 3rd-year student pursuing a Bachelor in technology in the stream of Computer Science
