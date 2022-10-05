@@ -12,7 +12,7 @@ I’m a final year student pursuing a Bachelor in technology in the stream of Co
 <img alt= "stats card" height="160px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=T-Abhishek&theme=radical">
 <img align="right" height="340px" width="400px" src="https://github.com/T-Abhishek/abhi/blob/main/giphy%20(1).gif?raw=true" /> </a>
 </p>
-<img height="160px" width="400px" src="https://github-readme-stats.vercel.app/api?username=T-Abhishek&count_private=true&theme=radical&show_icons=true" />
+<img height="160px" width="400px" src="https://raw.githubusercontent.com/T-Abhishek/T-Abhishek/main/giphy%20(1).gif" />
 <br>
 <p align="center">
 <a href="https://twitter.com/abhiiiXD" target="blank"><img align="center" src="https://img.icons8.com/color-glass/48/000000/twitter.png" alt="abhiiiXD" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
