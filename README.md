@@ -4,7 +4,7 @@
          width="40" />, I'm Abhishek Thatithuru</h1>
  
 <h6 align="center">
-I’m a final year student pursuing a Bachelor in technology in the stream of Computer Science
+I’m a final year student pursuing BTech in the stream of Computer Science
 </h6> <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=T-Abhishek&label=Profile%20views&color=0e75b6&style=flat" alt="T-Abhishek" /> </p>
 <p>
